@@ -22,7 +22,7 @@ contract Token {MAGNACOIN}
     /* Initializes contract with initial supply tokens to the creator of the contract */
     function Token(MAGNACOIN) {
 
-         initialSupply = 32000000;
+        initialSupply = 30000000;
          name ="MAGNACOIN";
         decimals = 7;
          symbol = "M";
