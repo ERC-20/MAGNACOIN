@@ -25,8 +25,7 @@ contract Token {MAGNACOIN}
         initialSupply = 30000000;
          name ="MAGNACOIN";
         decimals = 7;
-         symbol = "M";
-        
+         symbol = "MGCT";        
         balanceOf[msg.sender] = initialSupply;              // Give the creator all initial tokens
         totalSupply = initialSupply;                        // Update total supply
                                    
